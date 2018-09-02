@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">StudyWeather</string>
+    <string name="app_name">天气</string>
     <string name="pm2_5">PM2.5指数</string>
 </resources>
